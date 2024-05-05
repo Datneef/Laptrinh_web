@@ -1,0 +1,32 @@
+.container {
+    background-color: #ffff;
+}
+.thinh_hanh_img{
+    display: inline-block;
+    border-radius: 50% ;
+    width: 72px;
+    height: 72px;
+    overflow: hidden;
+}
+.thinh_hanh img{
+    width: 100%;
+    height: 100%;
+}
+.thinh_hanh {
+    display: flex;
+    column-gap: 15px;
+    align-items: center;
+}
+.list_thinh_hanh{
+    margin-top: 20px;
+    display: flex;
+    column-gap: 20px;
+}
+.list_thinh_hanh a{
+    font-size: 15px;
+    color: #606060;
+}
+.header_thinh_hanh{
+    border-bottom: #b3b2b2 1px solid;
+    margin-bottom: 30px;
+}
